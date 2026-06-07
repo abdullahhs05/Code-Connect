@@ -1,8 +1,6 @@
 # CodeConnect
 
 **Real-Time Collaborative Code Discussion Platform**
-*Software Design and Analysis — Deliverables 1–5*
-Abdullah Ismail (24i-0673) · Zulqarnain Zulfiqar (24i-0817)
 
 ---
 
